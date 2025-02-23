@@ -1,0 +1,4 @@
+controller/KafkaController.class
+service/KafkaProducerService.class
+service/KafkaConsumerService.class
+application/MyApp.class
